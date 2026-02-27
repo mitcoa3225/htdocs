@@ -1,0 +1,11 @@
+Log Entry 01
+By: Mitchell Coates
+Date: 2021-01-12
+Time: 15:43
+Incident: Customer account locked
+Description: Customer called because he
+had accidentally locked himself out of 
+his account.
+Technician:Mitchell Coates
+Resolution Date:
+Resolution Description:
